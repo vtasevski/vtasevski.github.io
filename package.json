@@ -4,5 +4,6 @@
   "description": "Portfolio page",
   "devDependencies": {
     "node-sass": "^4.9.3"
+    "lodash": ">=4.17.11"
   }
 }
